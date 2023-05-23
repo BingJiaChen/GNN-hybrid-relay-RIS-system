@@ -10,6 +10,7 @@ Graph Neural Network-Based Joint Beamforming for Hybrid Relay and Reconfigurable
 ## Conception:
 ### system setup
 <img src=./img/system_model.png width=30% />
+
 ### model structure
 <img src=./img/model.png width=30% />
 
