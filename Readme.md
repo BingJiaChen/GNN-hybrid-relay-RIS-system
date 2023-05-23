@@ -9,9 +9,9 @@ Graph Neural Network-Based Joint Beamforming for Hybrid Relay and Reconfigurable
 
 ## Conception:
 ### system setup
-![](./img/system_model.png =100x100)
+<img src=./img/system_model.png width=60% />
 ### model structure
-![](./img/model.png =100x100)
+<img src=./img/model.png width=60% />
 
 ## Execution:
 Open trainer.py in GNN or DNN folder and the parameters of schematic are defined in the main function of trainer.py.
@@ -50,7 +50,8 @@ Run trainer.py and start to simulate with the designed scheme.
 
 
 ## Experiement Result:
-![](./img/sum_rate_N.png =100x100)
+<img src=./img/sum_rate_N.png width=60% />
+
 
 
 ## Dependencies:
