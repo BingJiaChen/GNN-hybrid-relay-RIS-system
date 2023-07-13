@@ -5,7 +5,7 @@ This study examines a downlink multiple-input single-output (MISO) system, where
 multiple antennas sends data to multiple single-antenna users with the help of a reconfigurable intelligent surface (RIS) and a half-duplex decode-and-forward (DF) relay. The system’s sum rate is maximized through joint optimization of active beamforming at the BS and DF relay and passive beamforming at the RIS by graph neural network (GNN)
 
 This code is for paper : 
-Graph Neural Network-Based Joint Beamforming for Hybrid Relay and Reconfigurable Intelligent Surface Aided Multiuser Systems
+B.-J. Chen, R. Y. Chang, F.-T. Chien, and H. V. Poor, "Graph Neural Network-Based Joint Beamforming for Hybrid Relay and Reconfigurable Intelligent Surface Aided Multiuser Systems," IEEE Wireless Communications Letters (DOI: 10.1109/LWC.2023.3295761)
 
 ## Conception:
 ### system setup
